@@ -6,6 +6,6 @@
 
 Getting started to use Eco-Buddy, follow these simple steps:
 
-1. Clone the Eco-buddy repository from GitHub: git clone: 
+1. Clone the Eco-buddy repository from GitHub: git clone https://.git github.com/bahumuhawa/eco-buddy.git 
 2. Open the index.html file in your preferred web browser.
 
